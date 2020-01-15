@@ -75,7 +75,7 @@ class _JpushTestState extends State<JpushTest> {
                       DateTime.now().millisecondsSinceEpoch + 3000);
                   var localNotification = LocalNotification(
                     id: 234,
-                    title: '技术胖的飞鸽传说',
+                    title: '测试标题',
                     buildId: 1,
                     content: '看到了说明已经成功了',
                     fireTime: fireDate,
